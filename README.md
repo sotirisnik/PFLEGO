@@ -1,6 +1,6 @@
-# Personalized Federated Learning with Exact Stochastic Gradient Descent Updates
+# Personalized Federated Learning with Exact Distributed Stochastic Gradient Descent Updates
 
-Source code for paper "Personalized Federated Learning with Exact Stochastic Gradient Descent Updates" at ALA 2023 - Workshop at AAMAS 2023.
+Source code for paper "Personalized Federated Learning with Exact Distributed Stochastic Gradient Descent Updates" at ALA 2023 - Workshop at AAMAS 2023.
 
 ## Requirements
 
