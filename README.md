@@ -2,6 +2,10 @@
 
 Source code for paper "Personalized Federated Learning with Exact Distributed Stochastic Gradient Descent Updates" at ALA 2023 - Workshop at AAMAS 2023.
 
+## Poster
+
+![](img/aamas_poster.png)
+
 ## Requirements
 
 - Ubuntu 18.04 (OS)
