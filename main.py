@@ -9,10 +9,10 @@
 Example usage:
 
 python -u main.py  --dataset_name omniglot --inner_steps 50 --num_clients 50 --algo pflego --rounds 5000 --client_lr 0.007 --server_lr 0.003 --scenario highpers --use_gpu True
+#fedper = fedavg_personalized
+python -u main.py  --dataset_name mnist --inner_steps 50 --num_clients 100 --algo fedavg_personalized --rounds 200 --client_lr 0.007 --server_lr 1.0 --scenario highpers --use_gpu True
 
-python -u main.py  --dataset_name mnist --inner_steps 50 --num_clients 100 --algo fedper --rounds 200 --client_lr 0.007 --server_lr 1.0 --scenario highpers --use_gpu True
-
-python -u main.py  --dataset_name mnist --inner_steps 50 --num_clients 100 --algo fedavg --rounds 200 --client_lr 0.007 --server_lr 1.0 --scenario highpers
+python -u main.py  --dataset_name mnist --inner_steps 50 --num_clients 100 --algo fedavg_vanilla --rounds 200 --client_lr 0.007 --server_lr 1.0 --scenario highpers
 """
 
 import argparse
