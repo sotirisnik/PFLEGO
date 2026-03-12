@@ -1,15 +1,13 @@
 # Personalized Federated Learning with Exact Stochastic Gradient Descent
 
-**Published in Applied Intelligence (Springer), 2025**
+This repository is the official implementation of **"Personalized Federated Learning with Exact Stochastic Gradient Descent"**, published in **Applied Intelligence (Springer), 2025**.
 
 You can 𝐫𝐞𝐚𝐝 the article here: [https://doi.org/10.1007/s10489-025-06989-y](https://doi.org/10.1007/s10489-025-06989-y).
 
 The updated preprint is also available on ArXiv: [https://arxiv.org/abs/2202.09848](https://arxiv.org/abs/2202.09848).
-<hr>
-
-Source code for the published paper **"Personalized Federated Learning with Exact Stochastic Gradient Descent"**.
 
 *(Note: An earlier version of this work was presented at the [ALA 2023 Workshop](https://alaworkshop2023.github.io/) at AAMAS 2023 under the title "Personalized Federated Learning with Exact Distributed Stochastic Gradient Descent Updates").*
+<hr>
 
 ## Poster
 
