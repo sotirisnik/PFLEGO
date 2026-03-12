@@ -1,6 +1,18 @@
-# Personalized Federated Learning with Exact Distributed Stochastic Gradient Descent Updates
+# Personalized Federated Learning with Exact Stochastic Gradient Descent
+
+**Published in Applied Intelligence (Springer), 2025**
+
+You can 𝐫𝐞𝐚𝐝 the article here: [https://doi.org/10.1007/s10489-025-06989-y](https://doi.org/10.1007/s10489-025-06989-y).
+
+The updated preprint is also available on ArXiv: [https://arxiv.org/abs/2202.09848](https://arxiv.org/abs/2202.09848).
+<hr>
+
 
 Source code for paper "Personalized Federated Learning with Exact Distributed Stochastic Gradient Descent Updates" at ALA 2023 - Workshop at AAMAS 2023.
+
+Source code for the published paper **"Personalized Federated Learning with Exact Stochastic Gradient Descent"**.
+
+*(Note: An earlier version of this work was presented at the [ALA 2023 Workshop](https://alaworkshop2023.github.io/) at AAMAS 2023 under the title "Personalized Federated Learning with Exact Distributed Stochastic Gradient Descent Updates").*
 
 ## Poster
 
@@ -85,3 +97,19 @@ python -u main.py  --dataset_name mnist --inner_steps 50 --num_clients 100 --alg
 ```
 
 Note: At this moment we have designed Omniglot to run only when num_clients is set to 50. For the rest of the datasets you can change the num_clients hyperparameter freely.
+
+
+
+## Citation
+
+```bibtex
+@article{nikoloutsopoulos2025personalized,
+  title={Personalized federated learning with exact stochastic gradient descent},
+  author={Nikoloutsopoulos, Sotirios and Koutsopoulos, Iordanis and Titsias, Michalis K},
+  journal={Applied Intelligence},
+  volume={55},
+  number={17},
+  pages={1123},
+  year={2025},
+  publisher={Springer}
+}
